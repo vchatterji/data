@@ -18,5 +18,6 @@ That should open up a browser window where you can run the file.
 
 # Learn Data Science
 - [Dataquest.io](https://www.dataquest.io/dashboard)
-- [MIT Big Dada and Social Analytics Course](https://www.getsmarter.com/courses/us/mit-big-data-and-social-analytics-certificate-course)
+- [MIT Big Data and Social Analytics Course](https://www.getsmarter.com/courses/us/mit-big-data-and-social-analytics-certificate-course)
+  [Certificate of completion](https://www.credential.net/ifnrfybv)
 
