@@ -17,7 +17,7 @@ jupyter notebook
 That should open up a browser window where you can run the file.
 
 # Learn Data Science
-- [Dataquest.io](https://www.dataquest.io/dashboard)
+- [Dataquest.io](https://www.dataquest.io/view_cert/2LL6HAVWBLLZZP77DGWG/)
 - [MIT Big Data and Social Analytics Course](https://www.getsmarter.com/courses/us/mit-big-data-and-social-analytics-certificate-course)
    - [Certificate of completion](https://www.credential.net/ifnrfybv)
 
